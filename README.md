@@ -152,7 +152,6 @@ This project demonstrates the implementation of:
 | ------------------ | ----------- |
 | Yerrolla Eekshitha | 2520030615  |
 | Padala Anikha      | 2520030613  |
-| Kolavali Sanjana   | 2520030614  |
 
 ---
 
